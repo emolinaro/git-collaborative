@@ -47,7 +47,7 @@ Features:
 - Typically all developers have both read and write permissions (double-headed arrows).
 - Suited for cases where all developers are in the same group or organization etc.
 - Code review workflow is possible.
-- Code review can be coupled with with automated testing.
+- Code review can be coupled with automated testing.
 
 Advantages:
 
@@ -79,7 +79,7 @@ Features:
 - For a public repository everybody has read access.
 - Only very few people (the maintainers) have write access.
 - Typically nobody pushes directly to the central repo.
-- Code review can be coupled with with automated testing.
+- Code review can be coupled with automated testing.
 - Central repo and the forks typically reside in the "cloud".
 - Naturally grows out the centralized model once more people begin
   contributing.
